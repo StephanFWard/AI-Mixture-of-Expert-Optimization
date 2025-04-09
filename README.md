@@ -10,6 +10,9 @@ This project demonstrates a Mixture of Experts (MoE) layer implemented with PyTo
 - **Multiple Examples:** Built-in examples demonstrate both linear and non-linear input patterns.
 - **Performance Metrics:** Compare theoretical performance metrics between a Dense Layer and the MoE Layer.
 
+- ![image](https://github.com/user-attachments/assets/ed274374-ba33-4fa6-9529-721db280f90d)
+
+
 ## Requirements
 
 - Python 3.7+
